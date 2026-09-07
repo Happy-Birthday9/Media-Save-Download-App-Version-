@@ -1,0 +1,11 @@
+Media Download project files
+
+index.html                       - original supplied frontend file
+server.js                        - upgraded Express backend
+package.json                     - Node/Express package config
+README.md                        - project instructions
+public/index.html                - clean animated Media Download UI
+original-files/index.original.html
+original-files/server.original.js
+original-files/package.original.json
+original-files/README.original.md

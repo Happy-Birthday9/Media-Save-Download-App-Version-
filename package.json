@@ -1,0 +1,15 @@
+{
+  "name": "media-download",
+  "version": "1.0.0",
+  "description": "Media Download website with animated UI and TikTok/Facebook downloader backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
