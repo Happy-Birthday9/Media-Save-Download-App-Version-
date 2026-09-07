@@ -1,0 +1,13 @@
+{
+  "name": "Media Download",
+  "short_name": "Media Download",
+  "description": "Fast video and audio downloader",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#070b16",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
